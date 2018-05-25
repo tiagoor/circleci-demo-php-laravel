@@ -39,7 +39,7 @@ Run Codeception, installed via Composer
 ./vendor/bin/codecept run
 ```
 
-## Tests
+## Tests 2
 
 Please check out some [good test examples](https://github.com/janhenkgerritsen/codeception-laravel5-sample/tree/codeception-2.1/tests) provided.
 
